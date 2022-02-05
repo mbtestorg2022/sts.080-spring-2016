@@ -24,9 +24,54 @@ This course places contemporary youth activities in perspective by surveying you
 Grading
 -------
 
-| ASSIGNMENTS | POINTS |
-| --- | --- |
-| Weekly Discussion Questions | 10 |
-| Test 1 | 25 |
-| Alternative Assignment | 40 |
-| Participation | 25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Discussion Questions
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Test 1
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alternative Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
