@@ -136,7 +136,7 @@ Alvarez, Luis. Chapters 1 and 4–6 in _The Power of the Zoot: Youth Culture and
 
 Altbach, Philip G. "[The National Student Association in the Fifties: Flawed Conscience of the Silent Generation](https://www.researchgate.net/publication/234566221_The_National_Student_Association_in_the_Fifties_Flawed_Conscience_of_the_Silent_Generation)." _Youth and Society_ 5, no. 2 (1973): 184–211.
 
-Serb, Christopher. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Beach Boys: Chicago's First Junior Lifeguards."](https://www.yumpu.com/en/document/view/43082447/the-beach-boys-chicagos-first-junior-lifeguards
+Serb, Christopher. ["The Beach Boys: Chicago's First Junior Lifeguards."](https://www.yumpu.com/en/document/view/43082447/the-beach-boys-chicagos-first-junior-lifeguards
             ) _Chicago History,_ 2000.
 
 
@@ -210,11 +210,11 @@ Youth Political Participation since 1990
 
 Allen, Danielle, and Jennifer S. Light, eds. Chapters 3 and 4 in _From Voice to Influence: Understanding Citizenship in a Digital Age_. University of Chicago Press, 2015. ISBN: 9780226262260.
 
-Bers, Marina Umaschi. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Civic Identities, Online Technologies: From Designing Civics Curriculum to Supporting Civic Experiences." (PDF)](https://ase.tufts.edu/Devtech/publications/CivicIdentityBers08.pdf) _Civic Life Online: Learning How Digital Media Can Engage Youth_ (2008): 139–60.
+Bers, Marina Umaschi. ["Civic Identities, Online Technologies: From Designing Civics Curriculum to Supporting Civic Experiences." (PDF)](https://ase.tufts.edu/Devtech/publications/CivicIdentityBers08.pdf) _Civic Life Online: Learning How Digital Media Can Engage Youth_ (2008): 139–60.
 
-Goldman, Shelley, Angela Booker, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Mixing the Digital, Social, and Cultural: Learning, Identity, and Agency in Youth Participation." (PDF)](http://sed.ucsd.edu/files/2015/02/2008-Goldman-Booker_McDermott.pdf) _Youth, Identity, and Digital Media_ (2008): 185–206.
+Goldman, Shelley, Angela Booker, et al. ["Mixing the Digital, Social, and Cultural: Learning, Identity, and Agency in Youth Participation." (PDF)](http://sed.ucsd.edu/files/2015/02/2008-Goldman-Booker_McDermott.pdf) _Youth, Identity, and Digital Media_ (2008): 185–206.
 
-Cohen, Cathy J., and Joseph Kahne. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["New Media and Youth Political Action." (PDF - 1.5MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266648/) _Participatrory Politics_ (2011).
+Cohen, Cathy J., and Joseph Kahne. ["New Media and Youth Political Action." (PDF - 1.5MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266648/) _Participatrory Politics_ (2011).
 
 
 {{< tdclose >}}
